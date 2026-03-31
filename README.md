@@ -36,7 +36,7 @@ This project demonstrates basic media control functionality including play and p
 ---
 ### 📸 Screenshot
 
-<p align="center"> <img src="./snapshots/1.png" width="720"> <br>
+<p align="center"> <img src="https://github.com/mdudhe2007/Video-Play-Pause/blob/main/Snapshots/1.png" width="720"> <br>
 
 ---
 
