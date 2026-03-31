@@ -97,7 +97,7 @@ Open `index.html` in your browser<br>
 ---
 ## 👨‍💻 Author
 <P ALIGN="CENTER"><IMG SRC="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm8wYnloN3E1N3FuczV5MTI2Mmp2MjNtN282eGJ0M2Zld3JpcnAyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MBchOyOFof4tfmxrD8/giphy.gif" HEIGHT="160" WIDTH="160"></P>
-<p align="center"><B>DuduBoiii</B></p>
+<p align="center"><B>@DuduBoiii</B></p>
 
 ---
 
