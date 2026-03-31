@@ -103,4 +103,4 @@ Open `index.html` in your browser<br>
 
 ### 📜 License
 
-*This project is open-source and available under the MIT License.
+<p align="center">*This project is open-source and available under the MIT License.</p>
